@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699283886280",
+    "firebase_url": "https://quiz-app-bb90d.firebaseio.com",
+    "project_id": "quiz-app-bb90d",
+    "storage_bucket": "quiz-app-bb90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699283886280:android:3b404be1d0aae82c0955fd",
+        "android_client_info": {
+          "package_name": "com.basanttamang.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699283886280-fctt5b863oei71e5bvsmbrlkmkt21f55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcd0V-XaiLrZO0O4skBm2FMsSTg3cxsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699283886280-fctt5b863oei71e5bvsmbrlkmkt21f55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
